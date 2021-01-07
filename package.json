@@ -1,0 +1,23 @@
+{
+  "name": "connect-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinarius/connect-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinarius/connect-tools/issues"
+  },
+  "homepage": "https://github.com/vinarius/connect-tools#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.20"
+  }
+}
